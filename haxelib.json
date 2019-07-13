@@ -1,0 +1,19 @@
+{
+  "name": "record-rtc.hx",
+  "url": "https://github.com/DevInFlow/RecordRTC.hx.git",
+  "license": "MIT",
+  "tags": [
+    "js",
+    "webrtc",
+    "extern"
+  ],
+  "description": "",
+  "version": "0.0.1",
+  "classPath": "src",
+  "releasenote": "",
+  "contributors": [
+    "varadig"
+  ],
+  "dependencies": {
+  }
+}
